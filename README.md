@@ -6,7 +6,8 @@
 
 ###
 
-<h5 align="left">About me<br><br>💻 Especializado em criação de sites e landing pages  <br>🚀 Apaixonado por tecnologia e desenvolvimento web</h5>
+<h5 align="left">**Sobre mim**
+<br><br>💻 Especializado em criação de sites e landing pages  <br>🚀 Apaixonado por tecnologia e desenvolvimento web</h5>
 
 ###
 
