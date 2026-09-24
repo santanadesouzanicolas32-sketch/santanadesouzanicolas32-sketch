@@ -37,7 +37,7 @@ const nicolas = {
 | [**PluziStyle**](https://github.com/santanadesouzanicolas32-sketch/pluzistyle-tcc) | E-commerce de moda plus size (TCC) | Aplicação multipáginas · 39 telas · localStorage | [Demo](https://santanadesouzanicolas32-sketch.github.io/pluzistyle-tcc/) |
 | [**Brechó Eco-Herança**](https://github.com/santanadesouzanicolas32-sketch/brecho-eco-heranca) | E-commerce de moda vintage com Dark UI | Carrinho persistente · JS modular · IntersectionObserver | [Demo](https://santanadesouzanicolas32-sketch.github.io/brecho-eco-heranca/) |
 | [**Churrasco Grego VG**](https://github.com/santanadesouzanicolas32-sketch/churrasco-grego-cardapio) | Cardápio online de restaurante | Carrinho em JS puro · checkout gerado para WhatsApp · Open Graph | [Demo](https://santanadesouzanicolas32-sketch.github.io/churrasco-grego-cardapio/) |
-| [**PosObra Express**](https://github.com/santanadesouzanicolas32-sketch/posobra-express) | Site institucional em produção com domínio próprio | Domínio customizado · SEO · responsivo | [Demo](http://retiradaposobra.com.br/) |
+| [**Mateus Shmu**](https://github.com/santanadesouzanicolas32-sketch/mateus-shmu) | Landing page para coach de MMA com vídeos e galeria | IntersectionObserver · animações CSS · SEO/Open Graph | [Demo](https://santanadesouzanicolas32-sketch.github.io/mateus-shmu/) |
 
 <details>
 <summary><strong>📂 Outros projetos (landing pages para clientes)</strong></summary>
@@ -48,12 +48,12 @@ const nicolas = {
 | [O Burgueirinho](https://github.com/santanadesouzanicolas32-sketch/o-burgueirinho) | Cardápio + carrinho | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/o-burgueirinho/) |
 | [Pavani Confeitaria](https://github.com/santanadesouzanicolas32-sketch/pavani-confeitaria) | Cardápio + carrinho | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/pavani-confeitaria/) |
 | [Estação Guaraú](https://github.com/santanadesouzanicolas32-sketch/estacao-guarau) | Site de restaurante | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/estacao-guarau/) |
-| [Mateus Shmu](https://github.com/santanadesouzanicolas32-sketch/mateus-shmu) | Landing page | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/mateus-shmu/) |
 | [Vinicius Grilo](https://github.com/santanadesouzanicolas32-sketch/vinicius-grilo-site) | Landing page | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/vinicius-grilo-site/) |
 | [Professor Gaabu](https://github.com/santanadesouzanicolas32-sketch/professor-gaabu-site) | Landing page | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/professor-gaabu-site/) |
 | [Figueiredo Express](https://github.com/santanadesouzanicolas32-sketch/figueiredo-express) | Landing page | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/figueiredo-express/) |
 | [Marcos Antônio](https://github.com/santanadesouzanicolas32-sketch/marcos-antonio-portfolio) | Portfólio | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/marcos-antonio-portfolio/) |
 | [Nicoo Store](https://github.com/santanadesouzanicolas32-sketch/nicoo-store) | Vitrine de produtos | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/nicoo-store/) |
 | [NS Solutions TI](https://github.com/santanadesouzanicolas32-sketch/ns-solutions-ti) | Site institucional | HTML · CSS | [Demo](https://santanadesouzanicolas32-sketch.github.io/ns-solutions-ti/) |
+| [PosObra Express](https://github.com/santanadesouzanicolas32-sketch/posobra-express) | Site com domínio próprio | HTML · CSS · JS | [Código](https://github.com/santanadesouzanicolas32-sketch/posobra-express) |
 
 </details>
