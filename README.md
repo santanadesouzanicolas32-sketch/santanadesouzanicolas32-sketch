@@ -1,69 +1,66 @@
-<h1 align="center">Olá, eu sou o Nicolas Santana 👋</h1>
-<h3 align="center">Desenvolvedor Front-End · Criação de Sites, Landing Pages e Cardápios Digitais</h3>
+<h1 align="center">Nicolas Santana</h1>
+<p align="center"><strong>Desenvolvedor Front-End</strong> · JavaScript · TypeScript · Web Performance</p>
 
 <p align="center">
-  <a href="https://santanadesouzanicolas32-sketch.github.io/Bio_site_nicoo/"><img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"></a>
-  <a href="https://santanadesouzanicolas32-sketch.github.io/Landing-page-bio-site/"><img src="https://img.shields.io/badge/Meus%20Serviços-0A66C2?style=for-the-badge&logo=rocket&logoColor=white" alt="Serviços"></a>
-  <a href="https://santanadesouzanicolas32-sketch.github.io/GOOGLEMAPS/"><img src="https://img.shields.io/badge/NS%20Solutions%20TI-1f6feb?style=for-the-badge" alt="NS Solutions TI"></a>
+  <a href="https://santanadesouzanicolas32-sketch.github.io/Bio_site_nicoo/"><img src="https://img.shields.io/badge/Portfólio-000?style=flat-square&logo=googlechrome&logoColor=white"></a>
+  <a href="https://github.com/santanadesouzanicolas32-sketch?tab=repositories"><img src="https://img.shields.io/badge/Repositórios-181717?style=flat-square&logo=github&logoColor=white"></a>
 </p>
 
-## 💻 Sobre mim
+```js
+const nicolas = {
+  role: "Front-End Developer",
+  location: "São Paulo, Brasil",
+  stack: ["HTML5", "CSS3", "JavaScript", "TypeScript"],
+  tools: ["Git", "GitHub Actions", "esbuild", "VS Code"],
+  focus: ["Sites responsivos", "PWA", "Performance", "SEO"],
+  shipped: "65+ landing pages em produção",
+};
+```
 
-- 👨‍💻 Desenvolvedor web focado em **sites e landing pages para pequenos negócios**
-- 🚀 Mais de **65 landing pages** entregues na Zona Oeste de São Paulo
-- 📱 Todos os projetos são **responsivos**, rápidos e pensados para gerar contato pelo **WhatsApp**
-- 💡 Uso a programação para ajudar comércios a crescerem no digital
+## 🛠️ Stack
 
-## 🛠️ Tecnologias
+**Linguagens**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Frameworks e bibliotecas**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+**Ferramentas e DevOps**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![esbuild](https://img.shields.io/badge/esbuild-FFCF00?style=for-the-badge&logo=esbuild&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white) ![GitHub_Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
+
+## 🚀 Projetos em destaque
+
+| Projeto | O que faz | Destaques técnicos | |
+|---|---|---|---|
+| [**Gelamour**](https://github.com/santanadesouzanicolas32-sketch/gelamour) | Cardápio digital instalável (PWA) com carrinho e pedido via WhatsApp | TypeScript · esbuild · Service Worker · CI/CD com GitHub Actions | [Demo](https://santanadesouzanicolas32-sketch.github.io/gelamour/) |
+| [**Gelamour Gestão**](https://github.com/santanadesouzanicolas32-sketch/Meus-projetos) | Dashboard de gestão: pedidos, faturamento e relatórios | Chart.js · localStorage · CRUD em JS puro | [Demo](https://github.com/santanadesouzanicolas32-sketch/Meus-projetos) |
+| [**PluziStyle**](https://github.com/santanadesouzanicolas32-sketch/pluzistyle-tcc) | E-commerce de moda plus size (TCC) | Aplicação multipáginas · 39 telas · localStorage | [Demo](https://santanadesouzanicolas32-sketch.github.io/pluzistyle-tcc/) |
+| [**Brechó Eco-Herança**](https://github.com/santanadesouzanicolas32-sketch/trabalho-nicolau) | E-commerce de moda vintage com Dark UI | Carrinho persistente · JS modular · IntersectionObserver | [Demo](https://santanadesouzanicolas32-sketch.github.io/trabalho-nicolau/) |
+| [**Churrasco Grego VG**](https://github.com/santanadesouzanicolas32-sketch/GREGOCARDAPIO) | Cardápio online de restaurante | Carrinho em JS puro · checkout gerado para WhatsApp · Open Graph | [Demo](https://santanadesouzanicolas32-sketch.github.io/GREGOCARDAPIO/) |
+| [**PosObra Express**](https://github.com/santanadesouzanicolas32-sketch/Site-pele) | Site institucional em produção com domínio próprio | Domínio customizado · SEO · responsivo | [Demo](http://retiradaposobra.com.br/) |
+
+<details>
+<summary><strong>📂 Outros projetos (landing pages para clientes)</strong></summary>
+
+| Projeto | Tipo | Stack | |
+|---|---|---|---|
+| [LK Burguer](https://github.com/santanadesouzanicolas32-sketch/LKBURGUER) | Cardápio + carrinho | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/LKBURGUER/) |
+| [O Burgueirinho](https://github.com/santanadesouzanicolas32-sketch/sIMULACAOBURGERINHO) | Cardápio + carrinho | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/sIMULACAOBURGERINHO/) |
+| [Pavani Confeitaria](https://github.com/santanadesouzanicolas32-sketch/TALITAPAVANI) | Cardápio + carrinho | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/TALITAPAVANI/) |
+| [Estação Guaraú](https://github.com/santanadesouzanicolas32-sketch/estacao-) | Site de restaurante | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/estacao-/) |
+| [Mateus Shmu](https://github.com/santanadesouzanicolas32-sketch/mateus-shmu) | Landing page | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/mateus-shmu/) |
+| [Vinicius Grilo](https://github.com/santanadesouzanicolas32-sketch/TEAMBRAVEGRILO) | Landing page | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/TEAMBRAVEGRILO/) |
+| [Professor Gaabu](https://github.com/santanadesouzanicolas32-sketch/GAABU) | Landing page | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/GAABU/) |
+| [Figueiredo Express](https://github.com/santanadesouzanicolas32-sketch/figuereido) | Landing page | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/figuereido/) |
+| [Marcos Antônio](https://github.com/santanadesouzanicolas32-sketch/testemarquito) | Portfólio | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/testemarquito/) |
+| [Nicoo Store](https://github.com/santanadesouzanicolas32-sketch/iphonesnicoo) | Vitrine de produtos | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/iphonesnicoo/) |
+| [NS Solutions TI](https://github.com/santanadesouzanicolas32-sketch/GOOGLEMAPS) | Site institucional | HTML · CSS | [Demo](https://santanadesouzanicolas32-sketch.github.io/GOOGLEMAPS/) |
+
+</details>
+
+## 📊 Estatísticas
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=santanadesouzanicolas32-sketch&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santanadesouzanicolas32-sketch&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" />
 </p>
-
-## 🌐 Projetos em destaque
-
-### 🍔 Restaurantes e Delivery
-| Projeto | Descrição | Links |
-|---|---|---|
-| **Gelamour** | Cardápio digital PWA de doces e bolos, pedido direto no WhatsApp | [🌐 Ver site](https://santanadesouzanicolas32-sketch.github.io/gelamour/) · [💻 Código](https://github.com/santanadesouzanicolas32-sketch/gelamour) |
-| **Churrasco Grego VG** | Cardápio online com pedidos pelo WhatsApp | [🌐 Ver site](https://santanadesouzanicolas32-sketch.github.io/GREGOCARDAPIO/) · [💻 Código](https://github.com/santanadesouzanicolas32-sketch/GREGOCARDAPIO) |
-| **LK Burguer** | Site de hamburgueria artesanal | [🌐 Ver site](https://santanadesouzanicolas32-sketch.github.io/LKBURGUER/) · [💻 Código](https://github.com/santanadesouzanicolas32-sketch/LKBURGUER) |
-| **O Burgueirinho** | Cardápio de hamburgueria no Jd. Guaraú | [🌐 Ver site](https://santanadesouzanicolas32-sketch.github.io/sIMULACAOBURGERINHO/) · [💻 Código](https://github.com/santanadesouzanicolas32-sketch/sIMULACAOBURGERINHO) |
-| **Pavani Confeitaria** | Cardápio online de doces e bolos | [🌐 Ver site](https://santanadesouzanicolas32-sketch.github.io/TALITAPAVANI/) · [💻 Código](https://github.com/santanadesouzanicolas32-sketch/TALITAPAVANI) |
-| **Estação Guaraú** | Site de restaurante e experiência gastronômica | [🌐 Ver site](https://santanadesouzanicolas32-sketch.github.io/estacao-/) · [💻 Código](https://github.com/santanadesouzanicolas32-sketch/estacao-) |
-
-### 🥋 Esportes e Artes Marciais
-| Projeto | Descrição | Links |
-|---|---|---|
-| **Mateus Shmu** | Coach de Jiu-Jitsu, Wrestling e MMA | [🌐 Ver site](https://santanadesouzanicolas32-sketch.github.io/mateus-shmu/) · [💻 Código](https://github.com/santanadesouzanicolas32-sketch/mateus-shmu) |
-| **Vinicius Grilo** | Coach de Muay Thai, Boxe e MMA | [🌐 Ver site](https://santanadesouzanicolas32-sketch.github.io/TEAMBRAVEGRILO/) · [💻 Código](https://github.com/santanadesouzanicolas32-sketch/TEAMBRAVEGRILO) |
-| **Professor Gaabu** | Aulas de Boxe e Muay Thai em Osasco/SP | [🌐 Ver site](https://santanadesouzanicolas32-sketch.github.io/GAABU/) · [💻 Código](https://github.com/santanadesouzanicolas32-sketch/GAABU) |
-
-### 🛠️ Serviços e Empresas
-| Projeto | Descrição | Links |
-|---|---|---|
-| **PosObra Express** | Retirada de entulho e carretos, com domínio próprio | [🌐 Ver site](http://retiradaposobra.com.br/) · [💻 Código](https://github.com/santanadesouzanicolas32-sketch/Site-pele) |
-| **Figueiredo Express** | Serviço de motoboy em São Paulo | [🌐 Ver site](https://santanadesouzanicolas32-sketch.github.io/figuereido/) · [💻 Código](https://github.com/santanadesouzanicolas32-sketch/figuereido) |
-| **Marcos Antônio** | Portfólio de videomaker e social media | [🌐 Ver site](https://santanadesouzanicolas32-sketch.github.io/testemarquito/) · [💻 Código](https://github.com/santanadesouzanicolas32-sketch/testemarquito) |
-| **NS Solutions TI** | Site institucional da minha empresa | [🌐 Ver site](https://santanadesouzanicolas32-sketch.github.io/GOOGLEMAPS/) · [💻 Código](https://github.com/santanadesouzanicolas32-sketch/GOOGLEMAPS) |
-
-### 🛍️ Lojas Virtuais e Projetos Acadêmicos
-| Projeto | Descrição | Links |
-|---|---|---|
-| **PluziStyle (TCC)** | Loja virtual de moda plus size | [🌐 Ver site](https://santanadesouzanicolas32-sketch.github.io/pluzistyle-tcc/) · [💻 Código](https://github.com/santanadesouzanicolas32-sketch/pluzistyle-tcc) |
-| **Brechó Eco-Herança** | Moda vintage sustentável com carrinho funcional | [🌐 Ver site](https://santanadesouzanicolas32-sketch.github.io/trabalho-nicolau/) · [💻 Código](https://github.com/santanadesouzanicolas32-sketch/trabalho-nicolau) |
-| **Nicoo Store** | Vitrine de iPhones premium | [🌐 Ver site](https://santanadesouzanicolas32-sketch.github.io/iphonesnicoo/) · [💻 Código](https://github.com/santanadesouzanicolas32-sketch/iphonesnicoo) |
-
----
-
-<p align="center">💬 Precisa de um site para o seu negócio? <a href="https://santanadesouzanicolas32-sketch.github.io/Landing-page-bio-site/">Fale comigo</a>!</p>
