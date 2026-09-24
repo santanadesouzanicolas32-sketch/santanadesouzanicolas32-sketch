@@ -33,11 +33,11 @@ const nicolas = {
 | Projeto | O que faz | Destaques técnicos | |
 |---|---|---|---|
 | [**Gelamour**](https://github.com/santanadesouzanicolas32-sketch/gelamour) | Cardápio digital instalável (PWA) com carrinho e pedido via WhatsApp | TypeScript · esbuild · Service Worker · CI/CD com GitHub Actions | [Demo](https://santanadesouzanicolas32-sketch.github.io/gelamour/) |
-| [**Gelamour Gestão**](https://github.com/santanadesouzanicolas32-sketch/Meus-projetos) | Dashboard de gestão: pedidos, faturamento e relatórios | Chart.js · localStorage · CRUD em JS puro | [Demo](https://github.com/santanadesouzanicolas32-sketch/Meus-projetos) |
+| [**Gelamour Gestão**](https://github.com/santanadesouzanicolas32-sketch/gelamour-gestao) | Dashboard de gestão: pedidos, faturamento e relatórios | Chart.js · localStorage · CRUD em JS puro | [Demo](https://github.com/santanadesouzanicolas32-sketch/gelamour-gestao) |
 | [**PluziStyle**](https://github.com/santanadesouzanicolas32-sketch/pluzistyle-tcc) | E-commerce de moda plus size (TCC) | Aplicação multipáginas · 39 telas · localStorage | [Demo](https://santanadesouzanicolas32-sketch.github.io/pluzistyle-tcc/) |
-| [**Brechó Eco-Herança**](https://github.com/santanadesouzanicolas32-sketch/trabalho-nicolau) | E-commerce de moda vintage com Dark UI | Carrinho persistente · JS modular · IntersectionObserver | [Demo](https://santanadesouzanicolas32-sketch.github.io/trabalho-nicolau/) |
+| [**Brechó Eco-Herança**](https://github.com/santanadesouzanicolas32-sketch/brecho-eco-heranca) | E-commerce de moda vintage com Dark UI | Carrinho persistente · JS modular · IntersectionObserver | [Demo](https://santanadesouzanicolas32-sketch.github.io/brecho-eco-heranca/) |
 | [**Churrasco Grego VG**](https://github.com/santanadesouzanicolas32-sketch/churrasco-grego-cardapio) | Cardápio online de restaurante | Carrinho em JS puro · checkout gerado para WhatsApp · Open Graph | [Demo](https://santanadesouzanicolas32-sketch.github.io/churrasco-grego-cardapio/) |
-| [**PosObra Express**](https://github.com/santanadesouzanicolas32-sketch/Site-pele) | Site institucional em produção com domínio próprio | Domínio customizado · SEO · responsivo | [Demo](http://retiradaposobra.com.br/) |
+| [**PosObra Express**](https://github.com/santanadesouzanicolas32-sketch/posobra-express) | Site institucional em produção com domínio próprio | Domínio customizado · SEO · responsivo | [Demo](http://retiradaposobra.com.br/) |
 
 <details>
 <summary><strong>📂 Outros projetos (landing pages para clientes)</strong></summary>
@@ -47,7 +47,7 @@ const nicolas = {
 | [LK Burguer](https://github.com/santanadesouzanicolas32-sketch/lk-burguer) | Cardápio + carrinho | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/lk-burguer/) |
 | [O Burgueirinho](https://github.com/santanadesouzanicolas32-sketch/o-burgueirinho) | Cardápio + carrinho | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/o-burgueirinho/) |
 | [Pavani Confeitaria](https://github.com/santanadesouzanicolas32-sketch/pavani-confeitaria) | Cardápio + carrinho | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/pavani-confeitaria/) |
-| [Estação Guaraú](https://github.com/santanadesouzanicolas32-sketch/estacao-) | Site de restaurante | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/estacao-/) |
+| [Estação Guaraú](https://github.com/santanadesouzanicolas32-sketch/estacao-guarau) | Site de restaurante | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/estacao-guarau/) |
 | [Mateus Shmu](https://github.com/santanadesouzanicolas32-sketch/mateus-shmu) | Landing page | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/mateus-shmu/) |
 | [Vinicius Grilo](https://github.com/santanadesouzanicolas32-sketch/vinicius-grilo-site) | Landing page | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/vinicius-grilo-site/) |
 | [Professor Gaabu](https://github.com/santanadesouzanicolas32-sketch/professor-gaabu-site) | Landing page | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/professor-gaabu-site/) |
