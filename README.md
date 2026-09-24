@@ -2,7 +2,7 @@
 <p align="center"><strong>Desenvolvedor Front-End</strong> · JavaScript · TypeScript · Web Performance</p>
 
 <p align="center">
-  <a href="https://santanadesouzanicolas32-sketch.github.io/Bio_site_nicoo/"><img src="https://img.shields.io/badge/Portfólio-000?style=flat-square&logo=googlechrome&logoColor=white"></a>
+  <a href="https://santanadesouzanicolas32-sketch.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfólio-000?style=flat-square&logo=googlechrome&logoColor=white"></a>
   <a href="https://github.com/santanadesouzanicolas32-sketch?tab=repositories"><img src="https://img.shields.io/badge/Repositórios-181717?style=flat-square&logo=github&logoColor=white"></a>
 </p>
 
@@ -36,7 +36,7 @@ const nicolas = {
 | [**Gelamour Gestão**](https://github.com/santanadesouzanicolas32-sketch/Meus-projetos) | Dashboard de gestão: pedidos, faturamento e relatórios | Chart.js · localStorage · CRUD em JS puro | [Demo](https://github.com/santanadesouzanicolas32-sketch/Meus-projetos) |
 | [**PluziStyle**](https://github.com/santanadesouzanicolas32-sketch/pluzistyle-tcc) | E-commerce de moda plus size (TCC) | Aplicação multipáginas · 39 telas · localStorage | [Demo](https://santanadesouzanicolas32-sketch.github.io/pluzistyle-tcc/) |
 | [**Brechó Eco-Herança**](https://github.com/santanadesouzanicolas32-sketch/trabalho-nicolau) | E-commerce de moda vintage com Dark UI | Carrinho persistente · JS modular · IntersectionObserver | [Demo](https://santanadesouzanicolas32-sketch.github.io/trabalho-nicolau/) |
-| [**Churrasco Grego VG**](https://github.com/santanadesouzanicolas32-sketch/GREGOCARDAPIO) | Cardápio online de restaurante | Carrinho em JS puro · checkout gerado para WhatsApp · Open Graph | [Demo](https://santanadesouzanicolas32-sketch.github.io/GREGOCARDAPIO/) |
+| [**Churrasco Grego VG**](https://github.com/santanadesouzanicolas32-sketch/churrasco-grego-cardapio) | Cardápio online de restaurante | Carrinho em JS puro · checkout gerado para WhatsApp · Open Graph | [Demo](https://santanadesouzanicolas32-sketch.github.io/churrasco-grego-cardapio/) |
 | [**PosObra Express**](https://github.com/santanadesouzanicolas32-sketch/Site-pele) | Site institucional em produção com domínio próprio | Domínio customizado · SEO · responsivo | [Demo](http://retiradaposobra.com.br/) |
 
 <details>
@@ -44,16 +44,16 @@ const nicolas = {
 
 | Projeto | Tipo | Stack | |
 |---|---|---|---|
-| [LK Burguer](https://github.com/santanadesouzanicolas32-sketch/LKBURGUER) | Cardápio + carrinho | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/LKBURGUER/) |
-| [O Burgueirinho](https://github.com/santanadesouzanicolas32-sketch/sIMULACAOBURGERINHO) | Cardápio + carrinho | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/sIMULACAOBURGERINHO/) |
-| [Pavani Confeitaria](https://github.com/santanadesouzanicolas32-sketch/TALITAPAVANI) | Cardápio + carrinho | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/TALITAPAVANI/) |
+| [LK Burguer](https://github.com/santanadesouzanicolas32-sketch/lk-burguer) | Cardápio + carrinho | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/lk-burguer/) |
+| [O Burgueirinho](https://github.com/santanadesouzanicolas32-sketch/o-burgueirinho) | Cardápio + carrinho | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/o-burgueirinho/) |
+| [Pavani Confeitaria](https://github.com/santanadesouzanicolas32-sketch/pavani-confeitaria) | Cardápio + carrinho | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/pavani-confeitaria/) |
 | [Estação Guaraú](https://github.com/santanadesouzanicolas32-sketch/estacao-) | Site de restaurante | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/estacao-/) |
 | [Mateus Shmu](https://github.com/santanadesouzanicolas32-sketch/mateus-shmu) | Landing page | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/mateus-shmu/) |
-| [Vinicius Grilo](https://github.com/santanadesouzanicolas32-sketch/TEAMBRAVEGRILO) | Landing page | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/TEAMBRAVEGRILO/) |
-| [Professor Gaabu](https://github.com/santanadesouzanicolas32-sketch/GAABU) | Landing page | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/GAABU/) |
-| [Figueiredo Express](https://github.com/santanadesouzanicolas32-sketch/figuereido) | Landing page | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/figuereido/) |
-| [Marcos Antônio](https://github.com/santanadesouzanicolas32-sketch/testemarquito) | Portfólio | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/testemarquito/) |
-| [Nicoo Store](https://github.com/santanadesouzanicolas32-sketch/iphonesnicoo) | Vitrine de produtos | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/iphonesnicoo/) |
-| [NS Solutions TI](https://github.com/santanadesouzanicolas32-sketch/GOOGLEMAPS) | Site institucional | HTML · CSS | [Demo](https://santanadesouzanicolas32-sketch.github.io/GOOGLEMAPS/) |
+| [Vinicius Grilo](https://github.com/santanadesouzanicolas32-sketch/vinicius-grilo-site) | Landing page | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/vinicius-grilo-site/) |
+| [Professor Gaabu](https://github.com/santanadesouzanicolas32-sketch/professor-gaabu-site) | Landing page | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/professor-gaabu-site/) |
+| [Figueiredo Express](https://github.com/santanadesouzanicolas32-sketch/figueiredo-express) | Landing page | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/figueiredo-express/) |
+| [Marcos Antônio](https://github.com/santanadesouzanicolas32-sketch/marcos-antonio-portfolio) | Portfólio | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/marcos-antonio-portfolio/) |
+| [Nicoo Store](https://github.com/santanadesouzanicolas32-sketch/nicoo-store) | Vitrine de produtos | HTML · CSS · JS | [Demo](https://santanadesouzanicolas32-sketch.github.io/nicoo-store/) |
+| [NS Solutions TI](https://github.com/santanadesouzanicolas32-sketch/ns-solutions-ti) | Site institucional | HTML · CSS | [Demo](https://santanadesouzanicolas32-sketch.github.io/ns-solutions-ti/) |
 
 </details>
